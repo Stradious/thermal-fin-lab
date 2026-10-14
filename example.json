@@ -1,0 +1,10 @@
+{
+  "length": 0.08,
+  "width": 0.03,
+  "thickness": 0.003,
+  "conductivity": 205,
+  "convectionCoefficient": 35,
+  "baseTemperature": 90,
+  "ambientTemperature": 25,
+  "samples": 81
+}
